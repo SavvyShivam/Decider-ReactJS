@@ -1,4 +1,10 @@
 Checkout Live Demo - https://decider-reactjs.herokuapp.com/
+
+
+![Screenshot (105)](https://user-images.githubusercontent.com/85667548/172523062-90eae4af-b6c0-4bb3-81df-80894ad19bc3.png)
+
+![Screenshot (106)](https://user-images.githubusercontent.com/85667548/172523354-9f68c988-e466-4842-b26f-47eb7fb95f0c.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
